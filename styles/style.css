@@ -1,0 +1,40 @@
+html {
+  font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high */
+  font-family: 'Tangerine', cursive; /* this should be the rest of the output you got from Google Fonts */
+  background-color: #000000;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #00539f;
+  text-shadow: 3px 3px 1px rgb(128, 128, 128);
+}
+
+a,
+p,
+li {
+font-size: 30px;
+line-height: 1;
+letter-spacing: 1px;
+}
+
+body {
+  width: auto;
+  margin: 50px 50px;
+  background-color: #c0c0c0;
+  padding: 20px 20px;
+  border: 20px solid red;
+}
+
+html {
+  background-color: #00539f;
+}
+
+img {
+  display: block;
+  width: 60%;
+  margin: 0 auto;
+}
